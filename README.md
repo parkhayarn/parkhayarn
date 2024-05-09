@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=사는게%20꽃%20같네%20siba&animation=scaleIn&fontColor=ffffff&fontSize=90" />
     </div>
     
-### Hi there 👋
+                                                            ### Hi there 👋
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> INFP 받아라 </h2>  
