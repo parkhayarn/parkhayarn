@@ -4,3 +4,4 @@
 ![github](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ![myprofiles](https://github-readme-stats.vercel.app/api?username=parkhayarn&theme=red-blue)
+![header](https://capsule-render.vercel.app/api?color=auto)
