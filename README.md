@@ -22,7 +22,7 @@
     </div>
     
     
-![myprofiles](https://github-readme-stats.vercel.app/api?username=parkhayarn&theme=red-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 
 <div align= "center">
