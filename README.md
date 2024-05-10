@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=할%20수%20있다%20&animation=scaleIn&fontColor=ffffff&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=I%20can%20do%20&it%20animation=scaleIn&fontColor=ffffff&fontSize=90" />
     </div>
     
 
