@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=사는게%20꽃%20같네%20siba&animation=scaleIn&fontColor=ffffff&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=사는게%20꽃%20같네%20&animation=scaleIn&fontColor=ffffff&fontSize=90" />
     </div>
     
 
