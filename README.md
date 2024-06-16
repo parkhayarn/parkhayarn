@@ -17,9 +17,7 @@
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=social&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=social&logo=Github&logoColor=white">
         
-          <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
-          </div>
-    </div>
+        
     
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
