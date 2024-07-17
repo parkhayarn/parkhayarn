@@ -3,7 +3,7 @@
     </div>
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> INFP 받아라 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> INFP를 받아주세요 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 개인주의자다.</li></li>이상주의자다.</li></li>모든 MBTI 유형 중 가장 F(감정) 성향이 두드러지는 유형이다.</li></li>진정성을 중시한다.</li></li>분노를 겉으로 잘 드러내지 않는다...(이건 아님).</li></li>전통(관습)에 매달리는 것은 INFP에게 별로 호소력이 없다. </div> 
     </div>
     
